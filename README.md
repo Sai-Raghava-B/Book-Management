@@ -10,4 +10,4 @@ For book use   api/books "Get" For getting all the books
                api/books/id   "PUT"    For Updating or Chnaging the Book Data it has "input validation" it throws error accordingly when you enter wrong Input
                api/books/id   "DELETE" For Deleting a Book
 
-"MAKE SURE TO USE THE TOKEN GENERATED WHILE LOGIN FOR EACH OF THE ENDPOINTS OTHER WISE IT WILL THROW ERROR"  and Use the credetials or the secret key to run the application  like the mongodb connection , JWT Signing Key
+"MAKE SURE TO USE THE TOKEN GENERATED WHILE LOGIN FOR EACH OF THE ENDPOINTS OTHER WISE IT WILL THROW ERROR"  and Use the credetials or the secret key to run the application  like the mongodb connection , JWT Signing Key , and the PORT VALUE FOR THE ENDPOINT
